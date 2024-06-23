@@ -1,7 +1,5 @@
 # Cypher-Cam
 
-![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/Cypher-Cam.svg)
-
 ![Cypher-Cam](mn.png)
 
 ## Description
